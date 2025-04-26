@@ -12,6 +12,8 @@ giving you a decisive advantage in your market.
 
 ⭐ Process Control Databases: Ensure seamless traceability and accountability with our robust process control databases, designed to monitor quality determinants.
 
-
+<div align="center">
+    <a href="https://www.linkedin.com/company/86925685/"><img src="https://github.com/Ceyeborg/.github/blob/main/logo-social-linkedin.png" width="3%" alt="Ceyeborg LinkedIn"></a>
+</div>
 
 
