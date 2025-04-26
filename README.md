@@ -4,11 +4,13 @@ giving you a decisive advantage in your market.
 
 # Become a leader in industrial AI-based computer vision and automation by taking advantage of our services:</code>
 
+⭐ Data Matrix and UDI Grading: Meeting GS1 standards for UDI codes enables seamless interoperability between different stakeholders.
+
 ⭐ Tailored AI-Based Computer Vision Solutions: Enhance your quality inspection processes with our custom AI and predictive solutions.
 
-⭐Efficient AI Deployment: Optimize AI workloads for seamless integration and performance on edge devices.
+⭐ Efficient AI Deployment: Optimize AI workloads for seamless integration and performance on edge devices.
 
-⭐Process Control Databases: Ensure seamless traceability and accountability with our robust process control databases, designed to monitor quality determinants.
+⭐ Process Control Databases: Ensure seamless traceability and accountability with our robust process control databases, designed to monitor quality determinants.
 
 
 
