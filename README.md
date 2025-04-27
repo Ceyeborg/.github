@@ -1,6 +1,7 @@
-<div align="center">
-    <a href="https://www.ceyeb.org/"><img src="https://github.com/Ceyeborg/.github/blob/main/GitHub Header allgemein.jpg" width="3%" alt="We are Ceyeborg"></a>
-</div>
+  <p>
+    <a href="[https://www.ceyeb.org/" target="_blank">
+      <img width="100%" src="https://github.com/Ceyeborg/.github/blob/main/GitHub Header allgemein.jpg" alt="Ceyeborg banner"></a>
+  </p>
 
 At [Ceyeborg GmbH](https://www.ceyeb.org/), we specialize in delivering comprehensive AI systems tailored for real-world industrial applications. 
 From software to hardware development, our solutions are designed to meet your unique computer vision needs, 
